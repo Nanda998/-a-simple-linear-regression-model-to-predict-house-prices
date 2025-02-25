@@ -5,15 +5,15 @@ This project builds a Simple Linear Regression Model to predict house prices usi
 
 # Features
 ---------------------------------------------------------------------------------------------------------------------------
-# * Input Features:
+* Input Features:
       * Square footage of the house.
       * Number of bedrooms.
       * Number of bathrooms.
-# * Prediction Output:
+ * Prediction Output:
       * Estimated price of the house.
-# * Model Evaluation:
+ * Model Evaluation:
       * Metrics such as Mean Squared Error (MSE) and R² Score to assess model performance.
-# * Data Visualization:
+ * Data Visualization:
       * Plots showing feature relationships, residuals, and model fit.
 
 # Technologies Used
