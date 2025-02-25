@@ -24,3 +24,8 @@ This project builds a Simple Linear Regression Model to predict house prices usi
    * NumPy: For numerical computations.
    * scikit-learn: For building and evaluating the regression model.
    * matplotlib & seaborn: For data visualization.
+
+# Data Set
+------------------------------------------------------------------------------------------------------------------------------
+* The dataset contains details about houses, including square footage, number of bedrooms, number of bathrooms, and their corresponding prices.
+* Sample datasets (like the Boston housing dataset) or custom datasets can be used.
