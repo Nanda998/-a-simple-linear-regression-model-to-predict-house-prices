@@ -18,4 +18,9 @@ This project builds a Simple Linear Regression Model to predict house prices usi
 
 # Technologies Used
 -------------------------------------------------------------------------------------------------------------------------------
-# 
+* Programming Language: Python
+* Libraries:
+   * pandas: For data manipulation and preprocessing.
+   * NumPy: For numerical computations.
+   * scikit-learn: For building and evaluating the regression model.
+   * matplotlib & seaborn: For data visualization.
